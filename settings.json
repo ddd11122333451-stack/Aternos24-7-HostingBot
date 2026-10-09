@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "BananaVGT.aternos.me",
+    "port": 56787,
     "version": "",
     "try-creative": false
   },
